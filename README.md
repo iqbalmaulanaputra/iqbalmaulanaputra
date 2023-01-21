@@ -1,6 +1,5 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm M. Iqbal Maulana Putra</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalmaulanaputra&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalmaulanaputra" /> </p>
